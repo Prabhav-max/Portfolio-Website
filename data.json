@@ -1,0 +1,15 @@
+{
+    "NAME":"Prabhav Mishra",
+    "ABOUT_ME":"Pursuing B.Tech. in Electronics and Communication Engineering at Dr. B. R. Ambedkar National Institute of Technology",
+    "LANGUAGES":[
+        "Python",
+        "JavaScript",
+       " C++",
+       " C"
+    ],
+    "PROJECTS":[
+                 ["filter_drama","Google","Google is an amazing search engine."],
+                 ["place","YouTube","This is the best video sharing platform."],
+                 ["whatshot","Gmail","You know what it is!"]              
+    ]
+}
